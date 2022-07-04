@@ -1,0 +1,8 @@
+version: "3.0"
+responses:
+  utter_faq/what_is_company:
+  - text: A Company, abbreviated as co., is a legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective.
+  utter_faq/how_many:
+  - text: There were estimated to be approximately 213.65 million companies worldwide in 2020.
+  utter_faq/ask_ceo:
+  - text: As an executive officer of the company, the CEO reports the status of the business to the board of directors, motivates employees, and drives change within the organization. As a manager, the CEO presides over the organization's day-to-day operations.

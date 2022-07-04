@@ -1,0 +1,928 @@
+{
+  "company": [
+    {
+      "id": "7183:58:80:18:34:4",
+      "Text": "John F. Lundgren is CEO and Chairman of Stanley Black & Decker (SWK), a position he has held since March 1, 2004.",
+      "Subject": "Stanley Black & Decker",
+      "Relation": "CEO",
+      "Object": "John F. Lundgren"
+    },
+    {
+      "id": "7183:82:85:18:34:4",
+      "Text": "John F. Lundgren is CEO and Chairman of Stanley Black & Decker (SWK), a position he has held since March 1, 2004.",
+      "Subject": "SWK",
+      "Relation": "CEO",
+      "Object": "John F. Lundgren"
+    },
+    {
+      "id": "7089:69:96:18:34:4",
+      "Text": "Stephen Haddrill is Chief Executive Officer of the Financial Reporting Council (FRC) in the United Kingdom.",
+      "Subject": "Financial Reporting Council",
+      "Relation": "CEO",
+      "Object": "Stephen Haddrill"
+    },
+    {
+      "id": "7089:98:101:18:34:4",
+      "Text": "Stephen Haddrill is Chief Executive Officer of the Financial Reporting Council (FRC) in the United Kingdom.",
+      "Subject": "FRC",
+      "Relation": "CEO",
+      "Object": "Stephen Haddrill"
+    },
+    {
+      "id": "13013:81:108:16:30:4",
+      "Text": "Beverly Malone (born 1948) is the chief executive officer of the National League for Nursing in the United States.",
+      "Subject": "National League for Nursing",
+      "Relation": "CEO",
+      "Object": "Beverly Malone"
+    },
+    {
+      "id": "29498:91:108:10:18:4",
+      "Text": "Paul Jay (born 1951) is a journalist and filmmaker who founded and is CEO of The Real News Network.",
+      "Subject": "Real News Network",
+      "Relation": "CEO",
+      "Object": "Paul Jay"
+    },
+    {
+      "id": "7117:117:131:17:32:4",
+      "Text": "Valter Mainetti (Rome, 28 October 1947) is an Italian entrepreneur, CEO and majority shareholder of Sorgente Group.",
+      "Subject": "Sorgente Group",
+      "Relation": "CEO",
+      "Object": "Valter Mainetti"
+    },
+    {
+      "id": "12987:879:901:818:825:4",
+      "Text": "In 2013, Silvers was appointed Chief Executive Officer of Melbourne's St Kilda Youth Service.",
+      "Subject": "St Kilda Youth Service",
+      "Relation": "CEO",
+      "Object": "Silvers"
+    },
+    {
+      "id": "21648:1293:1307:1314:1329:4",
+      "Text": "In June 2011 WestPoint Home named Normand Savaria President & CEO, and Taran Chernin Executive VP & Chief Merchandising Officer.",
+      "Subject": "WestPoint Home",
+      "Relation": "CEO",
+      "Object": "Normand Savaria"
+    },
+    {
+      "id": "7087:76:87:14:36:4",
+      "Text": "John Frederick Rishton (born 21 February 1958) was the CEO of Rolls-Royce, which he joined as CEO in March 2011 and left in July 2015.",
+      "Subject": "Rolls-Royce",
+      "Relation": "CEO",
+      "Object": "John Frederick Rishton"
+    },
+    {
+      "id": "14768:1215:1235:1198:1206:4",
+      "Text": "Prior to AirWatch, Dabbiere founded Manhattan Associates (NASDAQ:MANH), the world\u00e2\u20ac\u2122s leading supply-chain execution software company, where he served as president and chief executive officer from 1990 through the end of 1999.",
+      "Subject": "Manhattan Associates",
+      "Relation": "CEO",
+      "Object": "Dabbiere"
+    },
+    {
+      "id": "14768:1244:1248:1198:1206:4",
+      "Text": "Prior to AirWatch, Dabbiere founded Manhattan Associates (NASDAQ:MANH), the world\u00e2\u20ac\u2122s leading supply-chain execution software company, where he served as president and chief executive officer from 1990 through the end of 1999.",
+      "Subject": "MANH",
+      "Relation": "CEO",
+      "Object": "Dabbiere"
+    },
+    {
+      "id": "7214:217:237:17:32:4",
+      "Text": "Stephen A. Love (born on May 19, 1950 in Crawfordsville, Indiana) is a professional musician, lead singer, songwriter, producer, entertainment business promoter, CEO of the James Allen Promotions and Blue Jeans Music BMI.",
+      "Subject": "Blue Jeans Music BMI",
+      "Relation": "CEO",
+      "Object": "Stephen A. Love"
+    },
+    {
+      "id": "7214:190:212:17:32:4",
+      "Text": "Stephen A. Love (born on May 19, 1950 in Crawfordsville, Indiana) is a professional musician, lead singer, songwriter, producer, entertainment business promoter, CEO of the James Allen Promotions and Blue Jeans Music BMI.",
+      "Subject": "James Allen Promotions",
+      "Relation": "CEO",
+      "Object": "Stephen A. Love"
+    },
+    {
+      "id": "12940:402:410:455:470:4",
+      "Text": "The IB Group was founded in 1994 by its Chairman and CEO Thomas Peterffy, and consists of subsidiaries operating on most major stock, option, futures, forex, bond, ETF and CFD exchanges worldwide.",
+      "Subject": "IB Group",
+      "Relation": "CEO",
+      "Object": "Thomas Peterffy"
+    },
+    {
+      "id": "30101:303:306:161:167:4",
+      "Text": "In 2009, Brandt was elected to Pinnacle West\u00e2\u20ac\u2122s board of directors and promoted to Chairman, President and CEO of Pinnacle West and Chairman and CEO of APS.",
+      "Subject": "APS",
+      "Relation": "CEO",
+      "Object": "Brandt"
+    },
+    {
+      "id": "30101:183:196:161:167:4",
+      "Text": "In 2009, Brandt was elected to Pinnacle West\u00e2\u20ac\u2122s board of directors and promoted to Chairman, President and CEO of Pinnacle West and Chairman and CEO of APS.",
+      "Subject": "Pinnacle West",
+      "Relation": "CEO",
+      "Object": "Brandt"
+    },
+    {
+      "id": "30101:265:278:161:167:4",
+      "Text": "In 2009, Brandt was elected to Pinnacle West\u00e2\u20ac\u2122s board of directors and promoted to Chairman, President and CEO of Pinnacle West and Chairman and CEO of APS.",
+      "Subject": "Pinnacle West",
+      "Relation": "CEO",
+      "Object": "Brandt"
+    },
+    {
+      "id": "13037:255:275:20:38:4",
+      "Text": "Charles A. Agemian (July 22, 1909 \u00e2\u20ac\u201c March 30, 1996) was an American banker who took early retirement from Chase Manhattan Bank, where he was executive vice president of operations, to become chairman and chief executive officer of the Hackensack Trust Co., which later was renamed Garden State National Bank.",
+      "Subject": "Hackensack Trust Co.",
+      "Relation": "CEO",
+      "Object": "Charles A. Agemian"
+    },
+    {
+      "id": "13037:301:327:20:38:4",
+      "Text": "Charles A. Agemian (July 22, 1909 \u00e2\u20ac\u201c March 30, 1996) was an American banker who took early retirement from Chase Manhattan Bank, where he was executive vice president of operations, to become chairman and chief executive officer of the Hackensack Trust Co., which later was renamed Garden State National Bank.",
+      "Subject": "Garden State National Bank",
+      "Relation": "CEO",
+      "Object": "Charles A. Agemian"
+    },
+    {
+      "id": "15442:1469:1496:1309:1325:4",
+      "Text": "Stew Leonard Jr. is president and chief executive officer of Stew Leonard's, a unique family-owned and operated, farm-fresh grocery stores once called the 'The Disneyland of Dairy Stores' by The New York Times for its in-store entertainment and costumed characters.",
+      "Subject": "Disneyland of Dairy Stores'",
+      "Relation": "CEO",
+      "Object": "Stew Leonard Jr."
+    },
+    {
+      "id": "15442:1370:1384:1309:1325:4",
+      "Text": "Stew Leonard Jr. is president and chief executive officer of Stew Leonard's, a unique family-owned and operated, farm-fresh grocery stores once called the 'The Disneyland of Dairy Stores' by The New York Times for its in-store entertainment and costumed characters.",
+      "Subject": "Stew Leonard's",
+      "Relation": "CEO",
+      "Object": "Stew Leonard Jr."
+    },
+    {
+      "id": "21223:117:123:14:35:4",
+      "Text": "Thomas \"Tom\" Kalinske (born July 17, 1944) is an American businessman, best known as having worked for Mattel 1972-87, reviving the Barbie & Hot Wheels Brands, launching Master of the Universe, then being promoted to CEO of [Mattel] from 1985 to 1987.",
+      "Subject": "Mattel",
+      "Relation": "CEO",
+      "Object": "Thomas \"Tom\" Kalinske"
+    },
+    {
+      "id": "21223:239:245:14:35:4",
+      "Text": "Thomas \"Tom\" Kalinske (born July 17, 1944) is an American businessman, best known as having worked for Mattel 1972-87, reviving the Barbie & Hot Wheels Brands, launching Master of the Universe, then being promoted to CEO of [Mattel] from 1985 to 1987.",
+      "Subject": "Mattel",
+      "Relation": "CEO",
+      "Object": "Thomas \"Tom\" Kalinske"
+    },
+    {
+      "id": "7114:893:899:904:918:4",
+      "Text": "Originally, the film was slated for a direct-to-video release, until then\u00e2\u20ac\u201cDisney CEO Michael Eisner heard the Sherman Brothers' score, and decided to release the film in theaters worldwide.",
+      "Subject": "Disney",
+      "Relation": "CEO",
+      "Object": "Michael Eisner"
+    },
+    {
+      "id": "21785:94:99:133:143:4",
+      "Text": "Beams is a Japanese clothing brand, established in 1976 in Harajuku district of Tokyo, whose chief executive officer (CEO) is Yo Shitara.",
+      "Subject": "whose",
+      "Relation": "CEO",
+      "Object": "Yo Shitara"
+    },
+    {
+      "id": "21785:7:12:133:143:4",
+      "Text": "Beams is a Japanese clothing brand, established in 1976 in Harajuku district of Tokyo, whose chief executive officer (CEO) is Yo Shitara.",
+      "Subject": "Beams",
+      "Relation": "CEO",
+      "Object": "Yo Shitara"
+    },
+    {
+      "id": "30161:21:52:76:87:4",
+      "Text": "First Home Mortgage Corporation was founded in 1990 by Dave Waters, CEO.",
+      "Subject": "First Home Mortgage Corporation",
+      "Relation": "CEO",
+      "Object": "Dave Waters"
+    },
+    {
+      "id": "25449:841:864:798:818:4",
+      "Text": "In 2014, the Chairman of the Board is Stephen L. Mansfield, President and CEO of Methodist Health System; the Chairman-elect for 2015 is Ralph Hawkins, Chairman of HKS, Inc.",
+      "Subject": "Methodist Health System",
+      "Relation": "CEO",
+      "Object": "Stephen L. Mansfield"
+    },
+    {
+      "id": "15410:26:52:62:76:4",
+      "Text": "Creative Innovations Niche and CEO, Denise Whitney, builds successful brands for manufacturers in the dietary supplement, nutraceutical, functional food and cosmeticuetical industries.",
+      "Subject": "Creative Innovations Niche",
+      "Relation": "CEO",
+      "Object": "Denise Whitney"
+    },
+    {
+      "id": "14717:415:423:425:432:4",
+      "Text": "Prior to her current role as CEO of Elevance, K\u00e2\u20ac\u2122Lynne was the senior vice president (SVP) of the Global Derivatives operating company within Innovene.",
+      "Subject": "Elevance",
+      "Relation": "CEO",
+      "Object": "K\u00e2\u20ac\u2122Lynne"
+    },
+    {
+      "id": "15310:597:600:608:620:4",
+      "Text": "MYB's CEO, Karen Caruso, was just named the 2011 North Carolina Small Business Person of the Year by the United States Small Business Administration.",
+      "Subject": "MYB",
+      "Relation": "CEO",
+      "Object": "Karen Caruso"
+    },
+    {
+      "id": "7203:89:119:25:44:4",
+      "Text": "Dr. Risa Lavizzo-Mourey (born 1954) is the President and CEO of the Robert Wood Johnson Foundation, One of America's largest philanthropic organizations devoted to health and health care.",
+      "Subject": "Robert Wood Johnson Foundation",
+      "Relation": "CEO",
+      "Object": "Risa Lavizzo-Mourey"
+    },
+    {
+      "id": "2174:47:71:14:26:4",
+      "Text": "Dean Mercado, Founder and CEO of Online Marketing Muscle\u00c2\u00ae and #1 Best Selling Author of \u00e2\u20ac\u0153The MindStretch: 49 Inspiring Insights For Business Breakthroughs\u00e2\u20ac is a spirited entrepreneur at heart and loves the fact that he controls his own destiny!",
+      "Subject": "Online Marketing Muscle\u00c2\u00ae",
+      "Relation": "CEO",
+      "Object": "Dean Mercado"
+    },
+    {
+      "id": "15076:1302:1305:1320:1334:4",
+      "Text": "BTC is led by Mr. Leonard Tharpe, President and Chief Executive Officer.",
+      "Subject": "BTC",
+      "Relation": "CEO",
+      "Object": "Leonard Tharpe"
+    },
+    {
+      "id": "25350:114:136:16:30:4",
+      "Text": "Gunter Thielen (born 4 August 1942 in Quierschied) is Chairman and Chief Executive Officer of the Bertelsmann Foundation.",
+      "Subject": "Bertelsmann Foundation",
+      "Relation": "CEO",
+      "Object": "Gunter Thielen"
+    },
+    {
+      "id": "7120:650:670:674:688:4",
+      "Text": "The CEO of Tufts Medical Center is Michael Wagner, MD, FACP.",
+      "Subject": "Tufts Medical Center",
+      "Relation": "CEO",
+      "Object": "Michael Wagner"
+    },
+    {
+      "id": "12815:253:271:293:299:11",
+      "Text": "A Yorkshireman (he lives in Thirsk and Malton) of Flemish ancestry, he is the son of Derek Vander Weyer, who was a prominent London banker with Barclays, where he rose to Deputy Chairman.",
+      "Subject": "Derek Vander Weyer",
+      "Relation": "CEO",
+      "Object": "London"
+    },
+    {
+      "id": "28628:151:154:23:44:4",
+      "Text": "Dennis H. Chookaszian is an American businessman who is a former Chairman of CEO of mPower Advisors, former chairman and CEO of CNA insurance, a \"$17 Billion multi line insurer with 20,000 employees.\"",
+      "Subject": "CNA",
+      "Relation": "CEO",
+      "Object": "Dennis H. Chookaszian"
+    },
+    {
+      "id": "28628:107:122:23:44:4",
+      "Text": "Dennis H. Chookaszian is an American businessman who is a former Chairman of CEO of mPower Advisors, former chairman and CEO of CNA insurance, a \"$17 Billion multi line insurer with 20,000 employees.\"",
+      "Subject": "mPower Advisors",
+      "Relation": "CEO",
+      "Object": "Dennis H. Chookaszian"
+    },
+    {
+      "id": "7095:240:262:73:117:4",
+      "Text": "Prince Luitpold of Bavaria (German: Luitpold Rupprecht Heinrich Prinz von Bayern) (born 14 April 1951) is a member of the House of Wittelsbach, which reigned as kings of Bavaria until 1918, and a CEO of K\u00c3\u00b6nig Ludwig GmbH & Co.",
+      "Subject": "K\u00c3\u00b6nig Ludwig GmbH & Co",
+      "Relation": "CEO",
+      "Object": "Luitpold Rupprecht Heinrich Prinz von Bayern"
+    },
+    {
+      "id": "7095:240:262:37:52:4",
+      "Text": "Prince Luitpold of Bavaria (German: Luitpold Rupprecht Heinrich Prinz von Bayern) (born 14 April 1951) is a member of the House of Wittelsbach, which reigned as kings of Bavaria until 1918, and a CEO of K\u00c3\u00b6nig Ludwig GmbH & Co.",
+      "Subject": "K\u00c3\u00b6nig Ludwig GmbH & Co",
+      "Relation": "CEO",
+      "Object": "Prince Luitpold"
+    },
+    {
+      "id": "7195:69:96:17:32:4",
+      "Text": "Blake Hutcheson (born 1962) is President and CEO of Oxford Properties Group Inc, a global real estate owner, developer, and property manager.",
+      "Subject": "Oxford Properties Group Inc",
+      "Relation": "CEO",
+      "Object": "Blake Hutcheson"
+    },
+    {
+      "id": "15168:252:267:203:219:4",
+      "Text": "The firm was founded in 2006 by Hugh McColl, Jr., the former Chairman and CEO of Bank of America, and Marc Oken, the former CFO of Bank of America.",
+      "Subject": "Bank of America",
+      "Relation": "CEO",
+      "Object": "Hugh McColl, Jr."
+    },
+    {
+      "id": "15168:302:317:203:219:4",
+      "Text": "The firm was founded in 2006 by Hugh McColl, Jr., the former Chairman and CEO of Bank of America, and Marc Oken, the former CFO of Bank of America.",
+      "Subject": "Bank of America",
+      "Relation": "CEO",
+      "Object": "Hugh McColl, Jr."
+    },
+    {
+      "id": "15523:540:549:657:671:4",
+      "Text": "Gameforge employs a staff of over 500 and was founded by its Chief Executive Officer Alexander R\u00c3\u00b6sner and former CEO Klaas Kersting in 2003.",
+      "Subject": "Gameforge",
+      "Relation": "CEO",
+      "Object": "Klaas Kersting"
+    },
+    {
+      "id": "15523:540:549:625:641:4",
+      "Text": "Gameforge employs a staff of over 500 and was founded by its Chief Executive Officer Alexander R\u00c3\u00b6sner and former CEO Klaas Kersting in 2003.",
+      "Subject": "Gameforge",
+      "Relation": "CEO",
+      "Object": "Alexander R\u00c3\u00b6sner"
+    },
+    {
+      "id": "2173:430:438:382:395:4",
+      "Text": "In the ICT field, Laurent KRATZ is the CEO of NEOFACTO ( formerly NFS S.A. ) a software services company based in Luxembourg and Brussels.",
+      "Subject": "NFS S.A.",
+      "Relation": "CEO",
+      "Object": "Laurent KRATZ"
+    },
+    {
+      "id": "2173:410:418:382:395:4",
+      "Text": "In the ICT field, Laurent KRATZ is the CEO of NEOFACTO ( formerly NFS S.A. ) a software services company based in Luxembourg and Brussels.",
+      "Subject": "NEOFACTO",
+      "Relation": "CEO",
+      "Object": "Laurent KRATZ"
+    },
+    {
+      "id": "12983:363:377:304:314:4",
+      "Text": "Dennis Gay is the president and chief executive officer of Basic Research.",
+      "Subject": "Basic Research",
+      "Relation": "CEO",
+      "Object": "Dennis Gay"
+    },
+    {
+      "id": "12991:471:484:451:458:4",
+      "Text": "Sanford's career at Bankers Trust began in 1961 as a commercial banking officer, and he was promoted through the ranks culminating in the positions of chairman and chief executive officer in 1987.",
+      "Subject": "Bankers Trust",
+      "Relation": "CEO",
+      "Object": "Sanford"
+    },
+    {
+      "id": "29379:279:308:332:352:4",
+      "Text": "Health Management Associates' current interim CEO is John M. Starcher, Jr.",
+      "Subject": "Health Management Associates'",
+      "Relation": "CEO",
+      "Object": "John M. Starcher, Jr"
+    },
+    {
+      "id": "7035:272:284:320:339:4",
+      "Text": "Ikos Resorts is backed by at team headed by CEO Achilleas Dorotheou.",
+      "Subject": "Ikos Resorts",
+      "Relation": "CEO",
+      "Object": "Achilleas Dorotheou"
+    },
+    {
+      "id": "7158:85:124:13:24:4",
+      "Text": "Keki Mistry also known as Keki M Mistry is the Vice Chairman and CEO of Housing Development Finance Corporation (HDFC).",
+      "Subject": "Housing Development Finance Corporation",
+      "Relation": "CEO",
+      "Object": "Keki Mistry"
+    },
+    {
+      "id": "7158:126:130:13:24:4",
+      "Text": "Keki Mistry also known as Keki M Mistry is the Vice Chairman and CEO of Housing Development Finance Corporation (HDFC).",
+      "Subject": "HDFC",
+      "Relation": "CEO",
+      "Object": "Keki Mistry"
+    },
+    {
+      "id": "7158:85:124:39:52:4",
+      "Text": "Keki Mistry also known as Keki M Mistry is the Vice Chairman and CEO of Housing Development Finance Corporation (HDFC).",
+      "Subject": "Housing Development Finance Corporation",
+      "Relation": "CEO",
+      "Object": "Keki M Mistry"
+    },
+    {
+      "id": "7158:126:130:39:52:4",
+      "Text": "Keki Mistry also known as Keki M Mistry is the Vice Chairman and CEO of Housing Development Finance Corporation (HDFC).",
+      "Subject": "HDFC",
+      "Relation": "CEO",
+      "Object": "Keki M Mistry"
+    },
+    {
+      "id": "7046:168:174:21:40:4",
+      "Text": "Olivier Brandicourt (born 13 February 1956 in Casablanca) is a French business executive and physician, and the current chief executive officer of Sanofi.",
+      "Subject": "Sanofi",
+      "Relation": "CEO",
+      "Object": "Olivier Brandicourt"
+    },
+    {
+      "id": "22788:493:496:498:512:4",
+      "Text": "In August 2014, the CEO of WTC, Andrew Messick, announced that Ironman Lake Placid would be among the list of North American races that would no longer offer a pro purse prize in 2015.",
+      "Subject": "WTC",
+      "Relation": "CEO",
+      "Object": "Andrew Messick"
+    },
+    {
+      "id": "16067:1252:1268:1188:1198:4",
+      "Text": "His younger brother Tom Curley was the president and chief executive officer of the Associated Press until he retired around August 2012.",
+      "Subject": "Associated Press",
+      "Relation": "CEO",
+      "Object": "Tom Curley"
+    },
+    {
+      "id": "18864:878:888:785:797:4",
+      "Text": "In 2011, Scott Garell, former President of Ask Networks, including Ask.com and Dictionary.com, joined GoodSearch as CEO.",
+      "Subject": "GoodSearch",
+      "Relation": "CEO",
+      "Object": "Scott Garell"
+    },
+    {
+      "id": "15130:26:35:13:18:4",
+      "Text": "Simon joined ip.access as Chief Executive Officer in March 2011 and is charged with leading the Company to become the world's pre-eminent vendor of small cell solutions.",
+      "Subject": "ip.access",
+      "Relation": "CEO",
+      "Object": "Simon"
+    },
+    {
+      "id": "21764:62:64:289:303:4",
+      "Text": "JS Food Plan Co, Ltd. (commonly referred to as \"JS\" (which is an acronym for the Korean name Jae Sang) (hangul:\u00ec\u00a0\u0153\u00ec\u00b4\u00ec\u2014\u00ec\u0160\u00a4 \u00ed\u2018\u00b8\u00eb\u201c\u0153\u00ed\u201d\u0152\u00eb\u017e\u0153) is a franchised Korean pizza company headquartered in Yeoeuido-Dong Yeongdeungpo-gu, Seoul, Korea, established in 1998 the company is currently CEO'd by Jeong Jae Sang (\u00ec\u00a0\u2022\u00ec\u017e\u00ac\u00ec\u0192).",
+      "Subject": "JS",
+      "Relation": "CEO",
+      "Object": "Jeong Jae Sang"
+    },
+    {
+      "id": "21764:14:35:289:303:4",
+      "Text": "JS Food Plan Co, Ltd. (commonly referred to as \"JS\" (which is an acronym for the Korean name Jae Sang) (hangul:\u00ec\u00a0\u0153\u00ec\u00b4\u00ec\u2014\u00ec\u0160\u00a4 \u00ed\u2018\u00b8\u00eb\u201c\u0153\u00ed\u201d\u0152\u00eb\u017e\u0153) is a franchised Korean pizza company headquartered in Yeoeuido-Dong Yeongdeungpo-gu, Seoul, Korea, established in 1998 the company is currently CEO'd by Jeong Jae Sang (\u00ec\u00a0\u2022\u00ec\u017e\u00ac\u00ec\u0192).",
+      "Subject": "JS Food Plan Co, Ltd.",
+      "Relation": "CEO",
+      "Object": "Jeong Jae Sang"
+    },
+    {
+      "id": "21764:125:134:289:303:4",
+      "Text": "JS Food Plan Co, Ltd. (commonly referred to as \"JS\" (which is an acronym for the Korean name Jae Sang) (hangul:\u00ec\u00a0\u0153\u00ec\u00b4\u00ec\u2014\u00ec\u0160\u00a4 \u00ed\u2018\u00b8\u00eb\u201c\u0153\u00ed\u201d\u0152\u00eb\u017e\u0153) is a franchised Korean pizza company headquartered in Yeoeuido-Dong Yeongdeungpo-gu, Seoul, Korea, established in 1998 the company is currently CEO'd by Jeong Jae Sang (\u00ec\u00a0\u2022\u00ec\u017e\u00ac\u00ec\u0192).",
+      "Subject": "\u00ec\u00a0\u0153\u00ec\u00b4\u00ec\u2014\u00ec\u0160\u00a4 \u00ed\u2018\u00b8\u00eb\u201c\u0153\u00ed\u201d\u0152\u00eb\u017e\u0153",
+      "Relation": "CEO",
+      "Object": "Jeong Jae Sang"
+    },
+    {
+      "id": "7141:150:158:238:250:4",
+      "Text": "On 1 March 2015, after being chief brand officer of McDonald's and its former head in the UK and northern Europe, he became CEO, succeeding Don Thompson, who stepped down on 28 January 2015.",
+      "Subject": "McDonald",
+      "Relation": "CEO",
+      "Object": "Don Thompson"
+    },
+    {
+      "id": "13002:140:158:13:24:4",
+      "Text": "Colin Angle (born 1967) is an American businessman and is the co-founder, chief executive officer and chairman of the board of iRobot Corporation.",
+      "Subject": "iRobot Corporation",
+      "Relation": "CEO",
+      "Object": "Colin Angle"
+    },
+    {
+      "id": "7156:127:132:138:161:4",
+      "Text": "The O'Reilly Foundation is a personal charitable trust set up in 1998 by media magnate, and former CEO of Heinz, Sir Anthony \"Tony\" O'Reilly.",
+      "Subject": "Heinz",
+      "Relation": "CEO",
+      "Object": "Anthony \"Tony\" O'Reilly"
+    },
+    {
+      "id": "21008:808:812:724:739:4",
+      "Text": "Philip Caldwell, Ford's CEO at the time, put Veraldi in charge of a new car to turn Ford's fortunes around, aware that the future of the company would be riding on it.",
+      "Subject": "Ford",
+      "Relation": "CEO",
+      "Object": "Philip Caldwell"
+    },
+    {
+      "id": "21008:741:745:724:739:4",
+      "Text": "Philip Caldwell, Ford's CEO at the time, put Veraldi in charge of a new car to turn Ford's fortunes around, aware that the future of the company would be riding on it.",
+      "Subject": "Ford",
+      "Relation": "CEO",
+      "Object": "Philip Caldwell"
+    },
+    {
+      "id": "30115:63:72:27:48:4",
+      "Text": "Bradley J. Wiskirchen is the CEO of Keynetics and Kount and the Chairman of the Board of Directors for Clickbank.",
+      "Subject": "Keynetics",
+      "Relation": "CEO",
+      "Object": "Bradley J. Wiskirchen"
+    },
+    {
+      "id": "30115:77:82:27:48:4",
+      "Text": "Bradley J. Wiskirchen is the CEO of Keynetics and Kount and the Chairman of the Board of Directors for Clickbank.",
+      "Subject": "Kount",
+      "Relation": "CEO",
+      "Object": "Bradley J. Wiskirchen"
+    },
+    {
+      "id": "20556:310:315:381:405:4",
+      "Text": "Opened in 1979 after getting built with state funds provided through Genex foreign trade company led at the time by the state-appointed CEO Miodrag \"Miki\" Savi\u00c4\u2021evi\u00c4\u2021, the hotel originally operated as Hotel Beograd InterContinental, part of the InterContinental chain.",
+      "Subject": "Genex",
+      "Relation": "CEO",
+      "Object": "Miodrag \"Miki\" Savi\u00c4\u2021evi\u00c4\u2021"
+    },
+    {
+      "id": "2281:62:85:24:38:4",
+      "Text": "Harry Halloran is Chairman and CEO of American Refining Group, ARG Resources, and American Refining and Biochemical, Inc. (ARB).",
+      "Subject": "American Refining Group",
+      "Relation": "CEO",
+      "Object": "Harry Halloran"
+    },
+    {
+      "id": "2281:106:145:24:38:4",
+      "Text": "Harry Halloran is Chairman and CEO of American Refining Group, ARG Resources, and American Refining and Biochemical, Inc. (ARB).",
+      "Subject": "American Refining and Biochemical, Inc.",
+      "Relation": "CEO",
+      "Object": "Harry Halloran"
+    },
+    {
+      "id": "2281:147:150:24:38:4",
+      "Text": "Harry Halloran is Chairman and CEO of American Refining Group, ARG Resources, and American Refining and Biochemical, Inc. (ARB).",
+      "Subject": "ARB",
+      "Relation": "CEO",
+      "Object": "Harry Halloran"
+    },
+    {
+      "id": "2281:87:100:24:38:4",
+      "Text": "Harry Halloran is Chairman and CEO of American Refining Group, ARG Resources, and American Refining and Biochemical, Inc. (ARB).",
+      "Subject": "ARG Resources",
+      "Relation": "CEO",
+      "Object": "Harry Halloran"
+    },
+    {
+      "id": "5348:136:157:20:47:4",
+      "Text": "Katharine Bouchage Weymouth (b. 1966) is the former publisher of The Washington Post and chief executive officer of Washington Post Media.",
+      "Subject": "Washington Post Media",
+      "Relation": "CEO",
+      "Object": "Katharine Bouchage Weymouth"
+    },
+    {
+      "id": "23002:332:359:379:391:4",
+      "Text": "It often features exclusive interviews and behind-the-scene takes with major video gaming companies such as Square Enix as well as posts from high-ranking Sony Computer Entertainment executives such as Jack Tretton, President and Chief Executive Officer of Sony Computer Entertainment.",
+      "Subject": "Sony Computer Entertainment",
+      "Relation": "CEO",
+      "Object": "Jack Tretton"
+    },
+    {
+      "id": "23002:434:461:379:391:4",
+      "Text": "It often features exclusive interviews and behind-the-scene takes with major video gaming companies such as Square Enix as well as posts from high-ranking Sony Computer Entertainment executives such as Jack Tretton, President and Chief Executive Officer of Sony Computer Entertainment.",
+      "Subject": "Sony Computer Entertainment",
+      "Relation": "CEO",
+      "Object": "Jack Tretton"
+    },
+    {
+      "id": "7204:428:431:413:424:4",
+      "Text": "Former Governor of Kansas Bill Graves is ATA's President and CEO.",
+      "Subject": "ATA",
+      "Relation": "CEO",
+      "Object": "Bill Graves"
+    },
+    {
+      "id": "2617:446:480:367:372:4",
+      "Text": "Before that, Mr. House was President, Chief Executive Officer and Co-Chief Operating Officer of Sony Computer Entertainment Europe (SCEE), beginning in May 2009, and was responsible for the PlayStation business in nearly 100 territories across Europe, Africa, Australasia and the Middle East.",
+      "Subject": "Sony Computer Entertainment Europe",
+      "Relation": "CEO",
+      "Object": "House"
+    },
+    {
+      "id": "2617:482:486:367:372:4",
+      "Text": "Before that, Mr. House was President, Chief Executive Officer and Co-Chief Operating Officer of Sony Computer Entertainment Europe (SCEE), beginning in May 2009, and was responsible for the PlayStation business in nearly 100 territories across Europe, Africa, Australasia and the Middle East.",
+      "Subject": "SCEE",
+      "Relation": "CEO",
+      "Object": "House"
+    },
+    {
+      "id": "7166:130:148:108:119:4",
+      "Text": "In June 2015, he replaced Peter Sands as CEO of Standard Chartered.",
+      "Subject": "Standard Chartered",
+      "Relation": "CEO",
+      "Object": "Peter Sands"
+    },
+    {
+      "id": "12956:63:88:18:34:4",
+      "Text": "J. Kevin McMahon is President and CEO of the Pittsburgh Cultural Trust, a $50 million private, nonprofit agency in Pittsburgh, Pennsylvania.",
+      "Subject": "Pittsburgh Cultural Trust",
+      "Relation": "CEO",
+      "Object": "J. Kevin McMahon"
+    },
+    {
+      "id": "7212:117:138:13:24:4",
+      "Text": "Dana Telsey (born 1962 (age 53\u00e2\u20ac\u201c54) in New York City, New York) is the CEO and Chief Research Officer of Telsey Advisory Group.",
+      "Subject": "Telsey Advisory Group",
+      "Relation": "CEO",
+      "Object": "Dana Telsey"
+    },
+    {
+      "id": "7199:109:125:16:37:4",
+      "Text": "Matti Juhani Alahuhta (born in Alah\u00c3\u00a4rm\u00c3\u00a4, Finland on 22 June 1952) was the President & CEO of KONE Corporation (2005\u00e2\u20ac\u201c2014) and former Member of Nokia's Executive Board (1993\u00e2\u20ac\u201c2004).",
+      "Subject": "KONE Corporation",
+      "Relation": "CEO",
+      "Object": "Matti Juhani Alahuhta"
+    },
+    {
+      "id": "15368:268:279:213:225:4",
+      "Text": "Lead by its CEO - Mr. Yaron Perets, the commercial and operational office of Ace Tankers is located in Amsterdam, The Netherlands with additional offices envisaged in the future.",
+      "Subject": "Ace Tankers",
+      "Relation": "CEO",
+      "Object": "Yaron Perets"
+    },
+    {
+      "id": "7196:144:161:14:26:4",
+      "Text": "Ashok Vemuri (born April 22, 1968) is the current Group Management Board Member at Capgemini, and the former President and CEO of IGATE Corporation and was also a member of its board.",
+      "Subject": "IGATE Corporation",
+      "Relation": "CEO",
+      "Object": "Ashok Vemuri"
+    },
+    {
+      "id": "13019:90:113:17:39:4",
+      "Text": "Peter Alexander Singer, OC, MD, MPH, FRSC, is Chief Executive Officer of Grand Challenges Canada and Director at the Sandra Rotman Centre, University Health Network and University of Toronto.",
+      "Subject": "Grand Challenges Canada",
+      "Relation": "CEO",
+      "Object": "Peter Alexander Singer"
+    },
+    {
+      "id": "23048:1012:1017:1022:1032:4",
+      "Text": "Former Apple CEO Steve Jobs initially indicated that Apple would retain 40% of the ad revenue, in line with what he called \"industry standard\", with the other 60% going to the developers.",
+      "Subject": "Apple",
+      "Relation": "CEO",
+      "Object": "Steve Jobs"
+    },
+    {
+      "id": "23048:1058:1063:1022:1032:4",
+      "Text": "Former Apple CEO Steve Jobs initially indicated that Apple would retain 40% of the ad revenue, in line with what he called \"industry standard\", with the other 60% going to the developers.",
+      "Subject": "Apple",
+      "Relation": "CEO",
+      "Object": "Steve Jobs"
+    },
+    {
+      "id": "2217:394:400:198:209:4",
+      "Text": "Coyote CEO Jeff Silver, along with the founding team that he recruited to join him, armed the business with the technology, industry experience, financial firepower, and \"No Excuses\" mentality that has made Coyote a leading service provider in the industry.",
+      "Subject": "Coyote",
+      "Relation": "CEO",
+      "Object": "Jeff Silver"
+    },
+    {
+      "id": "2217:187:193:198:209:4",
+      "Text": "Coyote CEO Jeff Silver, along with the founding team that he recruited to join him, armed the business with the technology, industry experience, financial firepower, and \"No Excuses\" mentality that has made Coyote a leading service provider in the industry.",
+      "Subject": "Coyote",
+      "Relation": "CEO",
+      "Object": "Jeff Silver"
+    },
+    {
+      "id": "25460:445:454:493:507:4",
+      "Text": "Xiha Life was founded on September 28, 2007, by Jani Penttinen, who serves as its CEO.",
+      "Subject": "Xiha Life",
+      "Relation": "CEO",
+      "Object": "Jani Penttinen"
+    },
+    {
+      "id": "13028:300:306:130:140:4",
+      "Text": "Previously, Rosensweig served as President and Chief Executive Officer of Guitar Hero, a series of music rhythm games published by RedOctane and Harmonix, Chief Operating Officer at Yahoo!, President of CNET, and President and Chief Executive Officer of ZDNet.",
+      "Subject": "Yahoo!",
+      "Relation": "CEO",
+      "Object": "Rosensweig"
+    },
+    {
+      "id": "13028:372:377:130:140:4",
+      "Text": "Previously, Rosensweig served as President and Chief Executive Officer of Guitar Hero, a series of music rhythm games published by RedOctane and Harmonix, Chief Operating Officer at Yahoo!, President of CNET, and President and Chief Executive Officer of ZDNet.",
+      "Subject": "ZDNet",
+      "Relation": "CEO",
+      "Object": "Rosensweig"
+    },
+    {
+      "id": "24553:501:505:439:451:4",
+      "Text": "This generation of Focus would be the first Ford vehicle designed under the tenure of CEO Alan Mulally and his \"One Ford\" plan, which aimed to leverage Ford's global resources into creating more competitive vehicles that could be sold globally in each segment with minimal changes.",
+      "Subject": "Ford",
+      "Relation": "CEO",
+      "Object": "Alan Mulally"
+    },
+    {
+      "id": "24553:393:397:439:451:4",
+      "Text": "This generation of Focus would be the first Ford vehicle designed under the tenure of CEO Alan Mulally and his \"One Ford\" plan, which aimed to leverage Ford's global resources into creating more competitive vehicles that could be sold globally in each segment with minimal changes.",
+      "Subject": "Ford",
+      "Relation": "CEO",
+      "Object": "Alan Mulally"
+    },
+    {
+      "id": "7148:78:109:13:24:4",
+      "Text": "Rahul Arora is the CEO of the Institutional Equities Business in Nirmal Bang Securities Pvt. Ltd.",
+      "Subject": "Nirmal Bang Securities Pvt. Ltd",
+      "Relation": "CEO",
+      "Object": "Rahul Arora"
+    },
+    {
+      "id": "7070:394:414:366:376:4",
+      "Text": "Board members include Lip-Bu Tan, the CEO of both Walden International and Cadence Design Systems.",
+      "Subject": "Walden International",
+      "Relation": "CEO",
+      "Object": "Lip-Bu Tan"
+    },
+    {
+      "id": "7070:419:441:366:376:4",
+      "Text": "Board members include Lip-Bu Tan, the CEO of both Walden International and Cadence Design Systems.",
+      "Subject": "Cadence Design Systems",
+      "Relation": "CEO",
+      "Object": "Lip-Bu Tan"
+    },
+    {
+      "id": "9868:73:84:18:39:4",
+      "Text": "Jason Kazilimani, Jr. is the Senior Partner and CEO at KPMG Zambia, a firm at which he has over 21 years of experience in Zambia, Nigeria, and the UK.",
+      "Subject": "KPMG Zambia",
+      "Relation": "CEO",
+      "Object": "Jason Kazilimani, Jr."
+    },
+    {
+      "id": "23246:363:394:306:312:4",
+      "Text": "Since their formation, Barden was also President and Chief Executive Officer of Majestic Investor Holdings, LLC and Manager of Barden Colorado Blackhawk, Colorado, Barden Mississippi Tunica, Mississippi, and Barden Nevada Las Vegas, Nevada; and Chairman and President of BDI.",
+      "Subject": "Majestic Investor Holdings, LLC",
+      "Relation": "CEO",
+      "Object": "Barden"
+    },
+    {
+      "id": "7208:61:72:14:26:4",
+      "Text": "Richard Moat is the Chief Executive Officer of Eircom Ltd., the largest telecommunications company in Ireland, and a Non-Executive Director and Chairman of the Audit and Risk Committee of International Personal Finance plc.",
+      "Subject": "Eircom Ltd.",
+      "Relation": "CEO",
+      "Object": "Richard Moat"
+    },
+    {
+      "id": "14941:188:202:223:232:4",
+      "Text": "Chartered by MedStar Health\u00e2\u20ac\u2122s President and CEO Ken Samet in 2009, MI2 provides a broad innovation infrastructure to help MedStar\u00e2\u20ac\u2122s 30,000 associates and 6,000 affiliated physicians invent the future.",
+      "Subject": "MedStar Health",
+      "Relation": "CEO",
+      "Object": "Ken Samet"
+    },
+    {
+      "id": "14941:297:304:223:232:4",
+      "Text": "Chartered by MedStar Health\u00e2\u20ac\u2122s President and CEO Ken Samet in 2009, MI2 provides a broad innovation infrastructure to help MedStar\u00e2\u20ac\u2122s 30,000 associates and 6,000 affiliated physicians invent the future.",
+      "Subject": "MedStar",
+      "Relation": "CEO",
+      "Object": "Ken Samet"
+    },
+    {
+      "id": "20706:438:441:510:529:4",
+      "Text": "He moved to SGI in January 1998, becoming Chairman of the Board and CEO, succeeding Edward R. McCracken.",
+      "Subject": "SGI",
+      "Relation": "CEO",
+      "Object": "Edward R. McCracken"
+    },
+    {
+      "id": "14614:210:212:323:344:4",
+      "Text": "QP's chairman is Mohammed Bin Saleh Al-Sada, Minister of Energy and Industry, and the chief executive officer is Saad Sherida Al Kaabi.",
+      "Subject": "QP",
+      "Relation": "CEO",
+      "Object": "Saad Sherida Al Kaabi"
+    },
+    {
+      "id": "29189:364:370:375:389:4",
+      "Text": "Besides Adidas CEO Herbert Hainer and Adidas CFO Robin Stalker, the board includes Duncan Fitzwilliams, founder of Nash Fitzwilliams, and Toby Hoare, CEO of JWT Europe.",
+      "Subject": "Adidas",
+      "Relation": "CEO",
+      "Object": "Herbert Hainer"
+    },
+    {
+      "id": "29189:513:523:494:504:4",
+      "Text": "Besides Adidas CEO Herbert Hainer and Adidas CFO Robin Stalker, the board includes Duncan Fitzwilliams, founder of Nash Fitzwilliams, and Toby Hoare, CEO of JWT Europe.",
+      "Subject": "JWT Europe",
+      "Relation": "CEO",
+      "Object": "Toby Hoare"
+    },
+    {
+      "id": "29189:394:400:375:389:4",
+      "Text": "Besides Adidas CEO Herbert Hainer and Adidas CFO Robin Stalker, the board includes Duncan Fitzwilliams, founder of Nash Fitzwilliams, and Toby Hoare, CEO of JWT Europe.",
+      "Subject": "Adidas",
+      "Relation": "CEO",
+      "Object": "Herbert Hainer"
+    },
+    {
+      "id": "23589:495:498:456:466:4",
+      "Text": "\"Chapman Kelly is a major force in the dependent eligibility audit services market,\" said Bill Lucia, Chief Executive Officer of HMS.",
+      "Subject": "HMS",
+      "Relation": "CEO",
+      "Object": "Bill Lucia"
+    },
+    {
+      "id": "17462:1917:1939:1892:1906:4",
+      "Text": "His brother Steven Nielsen is CEO of Dycom Industries, Inc. (NYSE: DY).",
+      "Subject": "Dycom Industries, Inc.",
+      "Relation": "CEO",
+      "Object": "Steven Nielsen"
+    },
+    {
+      "id": "17462:1947:1949:1892:1906:4",
+      "Text": "His brother Steven Nielsen is CEO of Dycom Industries, Inc. (NYSE: DY).",
+      "Subject": "DY",
+      "Relation": "CEO",
+      "Object": "Steven Nielsen"
+    },
+    {
+      "id": "30117:944:970:899:922:4",
+      "Text": "Trudie Telesford-Pierre is the Deputy CEO at KCL Capital Market Brokers, sits on the Board of Directors, serves as the Company\u00e2\u20ac\u2122s Corporate Secretary & heads the Risk, Legal & Compliance Division.",
+      "Subject": "KCL Capital Market Brokers",
+      "Relation": "CEO",
+      "Object": "Trudie Telesford-Pierre"
+    },
+    {
+      "id": "7132:112:129:20:45:4",
+      "Text": "Alessandro (Alex) Gadotti (born 10 August 1969 in Rome, Italy) is currently the APAC CEO of Powa Technologies after Powa has acquired ZNAP for US$75 million in May 2014 known for its innovative approach to mobile payment.",
+      "Subject": "Powa Technologies",
+      "Relation": "CEO",
+      "Object": "Alessandro (Alex) Gadotti"
+    },
+    {
+      "id": "7132:136:140:20:45:4",
+      "Text": "Alessandro (Alex) Gadotti (born 10 August 1969 in Rome, Italy) is currently the APAC CEO of Powa Technologies after Powa has acquired ZNAP for US$75 million in May 2014 known for its innovative approach to mobile payment.",
+      "Subject": "Powa",
+      "Relation": "CEO",
+      "Object": "Alessandro (Alex) Gadotti"
+    },
+    {
+      "id": "12941:570:607:641:655:4",
+      "Text": "On May 9, 2012, he was elected president and chief executive officer of the Institute of Nuclear Power Operations, succeeding retired Navy admiral James O. Ellis, Jr.",
+      "Subject": "Institute of Nuclear Power Operations",
+      "Relation": "CEO",
+      "Object": "James O. Ellis"
+    },
+    {
+      "id": "7152:111:133:22:42:4",
+      "Text": "Kathryn V. Marinello is the CEO, a Director of the Company and Chairman of the Board for Stream Global Services, a global outsourcing solution provider, providing BPO services for Fortune 1000 clients, with 32 service centers in 18 countries.",
+      "Subject": "Stream Global Services",
+      "Relation": "CEO",
+      "Object": "Kathryn V. Marinello"
+    },
+    {
+      "id": "28824:181:199:18:38:4",
+      "Text": "Robert Daniel Scinto (born February 16, 1947) is a Connecticut commercial real estate developer, and founder, chief executive officer and chairman of the board of R. D. Scinto, Inc., Shelton.",
+      "Subject": "R. D. Scinto, Inc.",
+      "Relation": "CEO",
+      "Object": "Robert Daniel Scinto"
+    },
+    {
+      "id": "7097:283:295:296:307:4",
+      "Text": "It is made by London-based Suso Drinks Ltd, run by a team comprising former Red Bull managing director Harry Drnec, former cofounder and General Manager of Relentless Sean Uprichard, former CEO at PJ Smoothies Andrew King, and former L'Oreal UK Sales Director Jamie Farrell.",
+      "Subject": "PJ Smoothies",
+      "Relation": "CEO",
+      "Object": "Andrew King"
+    },
+    {
+      "id": "14794:12:31:82:95:4",
+      "Text": "Lion Group Malaysia is headed by chairman and chief executive officer William Cheng.",
+      "Subject": "Lion Group Malaysia",
+      "Relation": "CEO",
+      "Object": "William Cheng"
+    },
+    {
+      "id": "7055:73:88:23:44:4",
+      "Text": "Saad Sherida al-Kaabi is the President and CEO of Qatar Petroleum (QP), the state owned corporation which operates all oil and gas activities in the State of Qatar.",
+      "Subject": "Qatar Petroleum",
+      "Relation": "CEO",
+      "Object": "Saad Sherida al-Kaabi"
+    },
+    {
+      "id": "7055:90:92:23:44:4",
+      "Text": "Saad Sherida al-Kaabi is the President and CEO of Qatar Petroleum (QP), the state owned corporation which operates all oil and gas activities in the State of Qatar.",
+      "Subject": "QP",
+      "Relation": "CEO",
+      "Object": "Saad Sherida al-Kaabi"
+    },
+    {
+      "id": "7053:101:114:13:33:4",
+      "Text": "Mark Langhorn Coombs (born April 1960) is a British billionaire businessman, CEO of the Ashmore Group.",
+      "Subject": "Ashmore Group",
+      "Relation": "CEO",
+      "Object": "Mark Langhorn Coombs"
+    },
+    {
+      "id": "14949:118:140:18:30:4",
+      "Text": "Dr. Vahid Ebadat, is the Chief Technical Officer of Chilworth Technology and Chief Executive Officer of Chilworth Asia Pacific.",
+      "Subject": "Chilworth Asia Pacific",
+      "Relation": "CEO",
+      "Object": "Vahid Ebadat"
+    },
+    {
+      "id": "14508:685:693:711:723:4",
+      "Text": "Our 60-person team is based in the historic Skipping Girl Vinegar warehouse in Abbotsford (Melbourne) and led by Practice Founder and CEO, Paul Kearney.",
+      "Subject": "Practice",
+      "Relation": "CEO",
+      "Object": "Paul Kearney"
+    },
+    {
+      "id": "7077:483:494:514:519:4",
+      "Text": "Prior to becoming CEO of AccuWeather in September 2007, Myers served as the company\u00e2\u20ac\u2122s Executive Vice President and General Counsel.",
+      "Subject": "AccuWeather",
+      "Relation": "CEO",
+      "Object": "Myers"
+    },
+    {
+      "id": "29200:77:92:17:38:4",
+      "Text": "Douglas Clark Merrill (born 1970) is the CEO and founder of ZestFinance.com (formerly ZestCash), a Los Angeles-based financial services technology company that uses big data to help make better credit underwriting decisions in order to provide credit alternatives to the underbanked.",
+      "Subject": "ZestFinance.com",
+      "Relation": "CEO",
+      "Object": "Douglas Clark Merrill"
+    },
+    {
+      "id": "29200:103:111:17:38:4",
+      "Text": "Douglas Clark Merrill (born 1970) is the CEO and founder of ZestFinance.com (formerly ZestCash), a Los Angeles-based financial services technology company that uses big data to help make better credit underwriting decisions in order to provide credit alternatives to the underbanked.",
+      "Subject": "ZestCash",
+      "Relation": "CEO",
+      "Object": "Douglas Clark Merrill"
+    },
+    {
+      "id": "18630:73:87:19:30:4",
+      "Text": "Tom Kivisto is an American businessman who co-founded SemGroup, L.P. in April 2000 and served as the company\u00e2\u20ac\u2122s president and chief executive officer until July 18, 2008.",
+      "Subject": "SemGroup, L.P.",
+      "Relation": "CEO",
+      "Object": "Tom Kivisto"
+    }
+  ]
+}

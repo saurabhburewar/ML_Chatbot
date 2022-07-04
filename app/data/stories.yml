@@ -1,0 +1,106 @@
+version: "3.0"
+stories:
+  - story: happy path
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: mood_great
+    - action: utter_happy
+    - intent: query_knowledge_base
+    - action: action_query_knowledge_base
+
+  - story: sad path 1
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: mood_unhappy
+    - action: utter_cheer_up
+    - action: utter_did_that_help
+    - intent: affirm
+    - action: utter_happy
+
+  - story: sad path 2
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: mood_unhappy
+    - action: utter_cheer_up
+    - action: utter_did_that_help
+    - intent: deny
+    - action: utter_goodbye
+
+  - story: say goodbye
+    steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+  - story: bot challenge
+    steps:
+    - intent: bot_challenge
+    - action: utter_iamabot
+
+  - story: bot challenge
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: bot_challenge
+    - action: utter_iamabot
+    - intent: demand_joke
+    - action: utter_joke
+    - intent: confirm_exists
+    - action: action_check_existence
+
+
+  - story: company_faq
+    steps:
+    - intent: query_knowledge_base
+    - action: action_query_knowledge_base
+
+  - story: interactive_story_1
+    steps:
+    - intent: greet
+    - action: utter_greet
+
+  - story: interactive_story_1
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: confirm_exists
+      entities:
+      - company_name: Stanley Black & Decker
+    - slot_was_set:
+      - company_name: Stanley Black & Decker
+    - action: action_check_existence
+    - intent: confirm_exists
+      entities:
+      - company_name: SWK
+    - slot_was_set:
+      - company_name: SWK
+    - action: action_check_existence
+    - intent: confirm_ceo
+      entities:
+      - ceo_name: John F. Lundgren
+    - slot_was_set:
+      - company_name: John F. Lundgren
+    - action: action_check_existence
+
+  - story: interactive_story_1
+    steps:
+    - intent: confirm_exists
+      entities:
+      - company_name: Rolls-Royce
+    - slot_was_set:
+      - company_name: Rolls-Royce
+    - action: action_check_existence
+    - intent: confirm_exists
+      entities:
+      - company_name: Manhattan Associates
+    - slot_was_set:
+      - company_name: Manhattan Associates
+    - action: action_check_existence
+    - intent: confirm_exists
+      entities:
+      - company_name: MANH
+    - slot_was_set:
+      - company_name: MANH
+    - action: action_check_existence

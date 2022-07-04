@@ -1,0 +1,401 @@
+version: "3.0"
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - good morning
+    - good evening
+    - hey there
+    - yo
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you around
+    - see you later
+    - Ciao
+    - later
+
+- intent: affirm
+  examples: |
+    - yes
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - very good
+    - great
+    - amazing
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I'm good
+
+- intent: mood_unhappy
+  examples: |
+    - sad
+    - very sad
+    - unhappy
+    - bad
+    - very bad
+    - awful
+    - terrible
+    - not very good
+    - extremely sad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: demand_joke
+  examples: |
+    - could you tell me a joke?
+    - please give me a funny
+    - give me a wisecracker
+    - tell me of a good antic
+    - tell me a joke
+    - no, i want to hear a joke
+    - tell me another joke
+    - give me another one
+    - oke, make me laugh one more time
+    - make me laugh
+
+- intent: confirm_exists
+  examples: |
+    - is [Stanley Black & Decker](company_name) a company
+    - does [SWK](company_name) exist
+    - ever heard of [Financial Reporting Council](company_name)
+    - are [National League for Nursing](company_name) and [Real News Network](company_name) company?
+    - is [Sorgente Group](company_name) a company?
+    - hey is [Manhattan Associates](company_name) a company?
+    - are [Pinnacle West](company_name) and [Hackensack Trust Co.](company_name) company?
+    - are [Rolls-Royce](company_name), [Hackensack Trust Co.](company_name) and [Manhattan Associates](company_name) company?
+
+- intent: confirm_ceo
+  examples: |
+    - is [Brandt](ceo_name) a ceo
+
+- intent: faq/what_is_company
+  examples: |
+    - what is company?
+    - can you tell me what company is?
+
+- intent: faq/how_many
+  examples: |
+    - how many companies are there?
+    - are there a lot of companies?
+
+- intent: faq/ask_ceo
+  examples: |
+    - what are company CEO?
+    - tell me about company CEO
+    - what are CEOs?
+    - what about these CEOs?
+
+- intent: query_knowledge_base
+  examples: |
+    - mention a few [companies]{"entity": "object_type", "value": "company"}.
+    - give me some random [companies]{"entity": "object_type", "value": "company"}.
+    - what are some [companies]{"entity": "object_type", "value": "company"}?
+    - can you give examples of [companies]{"entity": "object_type", "value": "company"}?
+
+- synonym: company
+  examples: |
+    - companies
+
+- synonym: CEO
+  examples: |
+    - CEOs
+    - ceo
+    - ceos
+
+- lookup: company_name
+  examples: |
+    - Stanley Black & Decker
+    - SWK
+    - Financial Reporting Council
+    - FRC
+    - National League for Nursing
+    - Real News Network
+    - Sorgente Group
+    - St Kilda Youth Service
+    - WestPoint Home
+    - Rolls-Royce
+    - Manhattan Associates
+    - MANH
+    - Blue Jeans Music BMI
+    - James Allen Promotions
+    - IB Group
+    - APS
+    - Pinnacle West
+    - Pinnacle West
+    - Hackensack Trust Co.
+    - Garden State National Bank
+    - Disneyland of Dairy Stores'
+    - Stew Leonard's
+    - Mattel
+    - Mattel
+    - Disney
+    - whose
+    - Beams
+    - First Home Mortgage Corporation
+    - Methodist Health System
+    - Creative Innovations Niche
+    - Elevance
+    - MYB
+    - Robert Wood Johnson Foundation
+    - Online Marketing Muscle®
+    - BTC
+    - Bertelsmann Foundation
+    - Tufts Medical Center
+    - Derek Vander Weyer
+    - CNA
+    - mPower Advisors
+    - König Ludwig GmbH & Co
+    - König Ludwig GmbH & Co
+    - Oxford Properties Group Inc
+    - Bank of America
+    - Bank of America
+    - Gameforge
+    - Gameforge
+    - NFS S.A.
+    - NEOFACTO
+    - Basic Research
+    - Bankers Trust
+    - Health Management Associates'
+    - Ikos Resorts
+    - Housing Development Finance Corporation
+    - HDFC
+    - Housing Development Finance Corporation
+    - HDFC
+    - Sanofi
+    - WTC
+    - Associated Press
+    - GoodSearch
+    - ip.access
+    - JS
+    - JS Food Plan Co, Ltd.
+    - 제��스 푸드플랜
+    - McDonald
+    - iRobot Corporation
+    - Heinz
+    - Ford
+    - Ford
+    - Keynetics
+    - Kount
+    - Genex
+    - American Refining Group
+    - American Refining and Biochemical, Inc.
+    - ARB
+    - ARG Resources
+    - Washington Post Media
+    - Sony Computer Entertainment
+    - Sony Computer Entertainment
+    - ATA
+    - Sony Computer Entertainment Europe
+    - SCEE
+    - Standard Chartered
+    - Pittsburgh Cultural Trust
+    - Telsey Advisory Group
+    - KONE Corporation
+    - Ace Tankers
+    - IGATE Corporation
+    - Grand Challenges Canada
+    - Apple
+    - Apple
+    - Coyote
+    - Coyote
+    - Xiha Life
+    - Yahoo!
+    - ZDNet
+    - Ford
+    - Ford
+    - Nirmal Bang Securities Pvt. Ltd
+    - Walden International
+    - Cadence Design Systems
+    - KPMG Zambia
+    - Majestic Investor Holdings, LLC
+    - Eircom Ltd.
+    - MedStar Health
+    - MedStar
+    - SGI
+    - QP
+    - Adidas
+    - JWT Europe
+    - Adidas
+    - HMS
+    - Dycom Industries, Inc.
+    - DY
+    - KCL Capital Market Brokers
+    - Powa Technologies
+    - Powa
+    - Institute of Nuclear Power Operations
+    - Stream Global Services
+    - R. D. Scinto, Inc.
+    - PJ Smoothies
+    - Lion Group Malaysia
+    - Qatar Petroleum
+    - QP
+    - Ashmore Group
+    - Chilworth Asia Pacific
+    - Practice
+    - AccuWeather
+    - ZestFinance.com
+    - ZestCash
+    - SemGroup, L.P.
+
+- lookup: ceo_name
+  examples: |
+    - John F. Lundgren
+    - John F. Lundgren
+    - Stephen Haddrill
+    - Stephen Haddrill
+    - Beverly Malone
+    - Paul Jay
+    - Valter Mainetti
+    - Silvers
+    - Normand Savaria
+    - John Frederick Rishton
+    - Dabbiere
+    - Dabbiere
+    - Stephen A. Love
+    - Stephen A. Love
+    - Thomas Peterffy
+    - Brandt
+    - Brandt
+    - Brandt
+    - Charles A. Agemian
+    - Charles A. Agemian
+    - Stew Leonard Jr.
+    - Stew Leonard Jr.
+    - Thomas "Tom" Kalinske
+    - Thomas "Tom" Kalinske
+    - Michael Eisner
+    - Yo Shitara
+    - Yo Shitara
+    - Dave Waters
+    - Stephen L. Mansfield
+    - Denise Whitney
+    - K’Lynne
+    - Karen Caruso
+    - Risa Lavizzo-Mourey
+    - Dean Mercado
+    - Leonard Tharpe
+    - Gunter Thielen
+    - Michael Wagner
+    - London
+    - Dennis H. Chookaszian
+    - Dennis H. Chookaszian
+    - Luitpold Rupprecht Heinrich Prinz von Bayern
+    - Prince Luitpold
+    - Blake Hutcheson
+    - Hugh McColl, Jr.
+    - Hugh McColl, Jr.
+    - Klaas Kersting
+    - Alexander Rösner
+    - Laurent KRATZ
+    - Laurent KRATZ
+    - Dennis Gay
+    - Sanford
+    - John M. Starcher, Jr
+    - Achilleas Dorotheou
+    - Keki Mistry
+    - Keki Mistry
+    - Keki M Mistry
+    - Keki M Mistry
+    - Olivier Brandicourt
+    - Andrew Messick
+    - Tom Curley
+    - Scott Garell
+    - Simon
+    - Jeong Jae Sang
+    - Jeong Jae Sang
+    - Jeong Jae Sang
+    - Don Thompson
+    - Colin Angle
+    - Anthony "Tony" O'Reilly
+    - Philip Caldwell
+    - Philip Caldwell
+    - Bradley J. Wiskirchen
+    - Bradley J. Wiskirchen
+    - Miodrag "Miki" Savićević
+    - Harry Halloran
+    - Harry Halloran
+    - Harry Halloran
+    - Harry Halloran
+    - Katharine Bouchage Weymouth
+    - Jack Tretton
+    - Jack Tretton
+    - Bill Graves
+    - House
+    - House
+    - Peter Sands
+    - J. Kevin McMahon
+    - Dana Telsey
+    - Matti Juhani Alahuhta
+    - Yaron Perets
+    - Ashok Vemuri
+    - Peter Alexander Singer
+    - Steve Jobs
+    - Steve Jobs
+    - Jeff Silver
+    - Jeff Silver
+    - Jani Penttinen
+    - Rosensweig
+    - Rosensweig
+    - Alan Mulally
+    - Alan Mulally
+    - Rahul Arora
+    - Lip-Bu Tan
+    - Lip-Bu Tan
+    - Jason Kazilimani, Jr.
+    - Barden
+    - Richard Moat
+    - Ken Samet
+    - Ken Samet
+    - Edward R. McCracken
+    - Saad Sherida Al Kaabi
+    - Herbert Hainer
+    - Toby Hoare
+    - Herbert Hainer
+    - Bill Lucia
+    - Steven Nielsen
+    - Steven Nielsen
+    - Trudie Telesford-Pierre
+    - Alessandro (Alex) Gadotti
+    - Alessandro (Alex) Gadotti
+    - James O. Ellis
+    - Kathryn V. Marinello
+    - Robert Daniel Scinto
+    - Andrew King
+    - William Cheng
+    - Saad Sherida al-Kaabi
+    - Saad Sherida al-Kaabi
+    - Mark Langhorn Coombs
+    - Vahid Ebadat
+    - Paul Kearney
+    - Myers
+    - Douglas Clark Merrill
+    - Douglas Clark Merrill
+    - Tom Kivisto
+
